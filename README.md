@@ -12,5 +12,5 @@ This repository contains exploratory data analysis (EDA) projects for practice a
 ### 2. Netflix EDA
 - Dataset: Netflix movies and TV shows dataset
 - Goal: Analyze content type, genres, ratings distribution, and trends
-- [View Notebook]()
+- [View Notebook](https://github.com/Aditya12D/EDA-PROJECTS/blob/main/netflixeda.ipynb)
 
