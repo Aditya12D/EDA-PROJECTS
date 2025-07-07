@@ -34,3 +34,5 @@ This repository contains **Exploratory Data Analysis (EDA)** projects for practi
 - Identified the **top 10 countries** with the highest number of titles, with the **USA leading the list**.
 - Netflix hosts over **6,000 movies** and more than **2,000 TV shows**, indicating a dominant focus on movies.
 - Explored **genre distributions** for both movies and TV shows through various visualisations.
+- 📈 **Release Trends Insight:**  
+  We observed a **steady rise in the number of Netflix releases year by year** until **2019**. However, **post-2019**, there was a noticeable **decline in the number of releases**, likely due to the **COVID-19 pandemic impacting global productions**.
